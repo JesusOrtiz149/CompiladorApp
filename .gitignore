@@ -1,0 +1,13 @@
+# NetBeans
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/.nb-gradle/
+
+# Compilados
+*.class
+
+# IDE
+.idea/
+.vscode/
