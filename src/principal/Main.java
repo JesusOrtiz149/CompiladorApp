@@ -49,9 +49,10 @@ public class Main {
     
     public static final String [] colaboradores = { 
         "Lenguajes y Automatas II :: Grupo A 8-9am :: Semestre Ago-Dic/2026",
-        "Luis Fernando Gil Vazquez  (85360673)", 
-        "Scarllet Johanson",
-        "Taylor Swift",
-        "Katy Perry" 
+        "Jesús Eduardo Ortiz Rodríguez 22130574", 
+        "Angel Jared",
+        "José Rómulo Sosa Ortiz (José José)",
+        "Joji",
+        " Stella Rose Bennet (Benee)"
     };     
 }
